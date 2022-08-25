@@ -1,0 +1,4 @@
+sources:
+  'cci.20171109':
+    sha256: 30a4676eb71cc3a48c958aa2f299c7ff5be5a6ad5afc38938217d6f6b31685c8
+    url: https://github.com/AtnNn/librethinkdbxx/archive/3d315fd18a699a67f170a98261b9b179c8c458d1.zip
