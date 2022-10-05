@@ -6,9 +6,9 @@ from conan.tools.files import get, rm
 from conan.tools.gnu import AutotoolsToolchain, Autotools
 from conan.tools.layout import basic_layout
 
-class LibrethinkdbxxConan(ConanFile):
-    minimum_conan_version='1.50.0'
+required_conan_version = ">=1.50.0"
 
+class LibrethinkdbxxConan(ConanFile):
     name = "librethinkdbxx"
     version = "cci.20171109"
 
