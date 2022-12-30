@@ -1,5 +1,5 @@
 sources:
-  'cci.20171109':
-    sha256: 30a4676eb71cc3a48c958aa2f299c7ff5be5a6ad5afc38938217d6f6b31685c8
-    url: https://github.com/AtnNn/librethinkdbxx/archive/3d315fd18a699a67f170a98261b9b179c8c458d1.zip
+  'cci.20221228':
+    sha256: a105b804a31fa76fa908341cf2d0a1bb2c15bb0c4a9a5fde7463a9db5ed6ab75
+    url: https://github.com/ashley-b/librethinkdbxx/archive/03dd23913e7278f25953f96f089e68baf5b01e2c.zip
 
