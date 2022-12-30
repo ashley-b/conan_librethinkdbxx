@@ -10,8 +10,6 @@ required_conan_version = ">=1.50.0"
 
 class LibrethinkdbxxConan(ConanFile):
     name = "librethinkdbxx"
-    version = "cci.20171109"
-
     license = "Apache License Version 2.0"
     url = "https://github.com/AtnNn/librethinkdbxx/"
     description = "This driver is compatible with RethinkDB 2.0. It is based on the official RethinkDB Python driver."
